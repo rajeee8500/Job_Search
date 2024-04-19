@@ -1,0 +1,35 @@
+.top-companies {
+    align-self: stretch;
+    position: relative;
+    line-height: 48px;
+    font-weight: 500;
+  }
+  .employerfalse01truefalsef-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-5xl);
+  }
+  .frame-parent2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-5xl);
+    font-size: var(--body-large-400-size);
+    color: var(--gray-scale-900);
+  }
+  .featured-companies {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0px var(--padding-281xl) var(--padding-81xl);
+    gap: var(--gap-31xl);
+    text-align: left;
+    font-size: var(--heading-01-size);
+    color: var(--gray-900);
+    font-family: var(--body-xl-500);
+  }
+  

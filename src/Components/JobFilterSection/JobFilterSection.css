@@ -1,0 +1,166 @@
+.find-a-job {
+    width: 652px;
+    position: relative;
+    line-height: 64px;
+    font-weight: 500;
+    display: inline-block;
+  }
+  .aliquam-vitae-turpis {
+    width: 536px;
+    position: relative;
+    font-size: var(--body-large-400-size);
+    line-height: 28px;
+    color: var(--gray-600);
+    display: inline-block;
+  }
+  .find-a-job-that-suits-your-int-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-5xl);
+  }
+  .job-tittle-keyword1 {
+    position: absolute;
+    top: calc(50% - 12px);
+    left: 54px;
+    line-height: 24px;
+  }
+  .input-field {
+    width: 288px;
+    position: relative;
+    border-radius: var(--br-8xs);
+    background-color: var(--gray-white);
+    height: 56px;
+  }
+  .frame-item {
+    width: 1px;
+    position: relative;
+    border-right: 1px solid var(--gray-100);
+    box-sizing: border-box;
+    height: 33px;
+  }
+  .fimap-pin-icon {
+    position: absolute;
+    top: calc(50% - 12px);
+    left: 18px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+  }
+  .input-field1 {
+    width: 224px;
+    position: relative;
+    border-radius: var(--br-8xs);
+    background-color: var(--gray-white);
+    height: 56px;
+  }
+  .input-field-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+  .primary2 {
+    position: relative;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-weight: 600;
+  }
+  .button3 {
+    border-radius: var(--br-9xs);
+    background-color: var(--primary-500);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-base) var(--padding-13xl);
+    color: var(--gray-white);
+  }
+  .search2 {
+    border-radius: var(--br-5xs);
+    background-color: var(--gray-white);
+    box-shadow: var(--search-shadow);
+    border: 1px solid var(--gray-100);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: var(--padding-xs);
+    gap: var(--gap-xs);
+  }
+  .suggestion1 {
+    position: relative;
+    line-height: 20px;
+    color: var(--gray-400);
+  }
+  .designer {
+    position: relative;
+    line-height: 20px;
+  }
+  .digital-marketing {
+    position: relative;
+    line-height: 20px;
+    font-weight: 500;
+    color: var(--primary-500);
+  }
+  .suggestion {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    text-align: center;
+    font-size: var(--body-small-400-size);
+    color: var(--gray-700);
+  }
+  .search1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-5xl);
+    font-size: var(--body-medium-500-size);
+    color: var(--gray-400);
+  }
+  .info1 {
+    position: absolute;
+    top: 109px;
+    left: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-13xl);
+  }
+  .illustration-icon {
+    position: absolute;
+    top: 100px;
+    left: 1128px;
+    width: 492px;
+    height: 382px;
+    overflow: hidden;
+  }
+  .fun-fact {
+    position: absolute;
+    top: 582px;
+    left: calc(50% - 960px);
+    width: 1920px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px var(--padding-281xl);
+    box-sizing: border-box;
+    font-size: var(--heading-04-size);
+  }
+  .info-parent {
+    width: 1920px;
+    position: relative;
+    background-color: var(--color-whitesmoke-100);
+    height: 794px;
+    text-align: left;
+    font-size: var(--display-01-size);
+    color: var(--gray-900);
+    font-family: var(--body-xl-500);
+  }
+  

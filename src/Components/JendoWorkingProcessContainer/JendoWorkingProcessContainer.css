@@ -1,0 +1,64 @@
+.how-jobpilot-work {
+    position: relative;
+    line-height: 48px;
+    font-weight: 500;
+  }
+  .arrows-icon {
+    position: absolute;
+    height: 21.43%;
+    width: 16.82%;
+    top: 1.79%;
+    right: 67.05%;
+    bottom: 76.79%;
+    left: 16.14%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    opacity: 0.4;
+  }
+  .arrows-icon1 {
+    position: absolute;
+    height: 21.43%;
+    width: 16.82%;
+    top: 28.57%;
+    right: 41.59%;
+    bottom: 50%;
+    left: 41.59%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    opacity: 0.4;
+  }
+  .arrows-icon2 {
+    position: absolute;
+    height: 21.43%;
+    width: 16.82%;
+    top: 1.79%;
+    right: 16.14%;
+    bottom: 76.79%;
+    left: 67.05%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    opacity: 0.4;
+  }
+  .process {
+    width: 1320px;
+    position: relative;
+    height: 224px;
+    font-size: var(--body-large-400-size);
+  }
+  .jendo-working-process {
+    background-color: var(--gray-50);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: var(--padding-81xl) var(--padding-281xl);
+    gap: var(--gap-31xl);
+    text-align: center;
+    font-size: var(--heading-01-size);
+    color: var(--gray-900);
+    font-family: var(--body-xl-500);
+  }
+  

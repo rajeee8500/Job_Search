@@ -1,0 +1,181 @@
+.call-now {
+  position: relative;
+  line-height: 28px;
+}
+.div9 {
+  position: relative;
+  line-height: 28px;
+  font-weight: 500;
+  color: var(--gray-white);
+}
+.phone-number {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.elgin-st-celina {
+  width: 312px;
+  position: relative;
+  font-size: var(--body-small-400-size);
+  line-height: 20px;
+  color: var(--gray-500);
+  display: inline-block;
+}
+.phone-number-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.jendo {
+  position: absolute;
+  top: 100px;
+  left: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+  font-size: var(--body-large-400-size);
+  color: var(--gray-600);
+}
+.quick-link {
+  width: 200px;
+  position: relative;
+  line-height: 32px;
+  font-weight: 500;
+  display: inline-block;
+}
+.fiarrow-right-icon5 {
+  width: 20px;
+  position: relative;
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.footer-link {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) 0px;
+  gap: var(--gap-9xs);
+}
+.contact {
+  position: relative;
+  line-height: 24px;
+  
+}
+.footer-link2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) 0px;
+  gap: var(--gap-7xs);
+  color: var(--gray-white);
+}
+.link {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+  text-align: center;
+  font-size: var(--body-medium-500-size);
+  color: var(--gray-400);
+}
+.com {
+  position: absolute;
+  top: 100px;
+  left: 402px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.candidate {
+  position: absolute;
+  top: 100px;
+  left: 642px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.employers-dashboard {
+  position: relative;
+  line-height: 24px;
+}
+.employers {
+  position: absolute;
+  top: 100px;
+  left: 882px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.support {
+  position: absolute;
+  top: 100px;
+  left: 1122px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.footer1 {
+  width: 1320px;
+  position: relative;
+  height: 384px;
+}
+.jobpilot-job {
+  position: relative;
+  line-height: 20px;
+}
+.vector-icon {
+  width: 10px;
+  position: relative;
+  height: 20px;
+}
+
+
+.social-media {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.copy-right {
+  width: 1920px;
+  background-color: var(--gray-900);
+  box-shadow: 0px 1px 0px #2f3338 inset;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--padding-5xl) var(--padding-281xl);
+  box-sizing: border-box;
+  font-size: var(--body-small-400-size);
+  color: var(--gray-500);
+}
+.footer {
+  background-color: var(--gray-900);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--body-xl-500-size);
+  color: var(--gray-white);
+  font-family: var(--body-xl-500);
+}

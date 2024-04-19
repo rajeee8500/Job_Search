@@ -1,0 +1,53 @@
+.briefcase-duotone-1-icon {
+    width: 40px;
+    position: relative;
+    height: 40px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .icon {
+    border-radius: var(--br-9xs);
+    background-color: var(--primary-50);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-base);
+  }
+  .div8 {
+    width: 180px;
+    position: relative;
+    line-height: 32px;
+    font-weight: 500;
+    display: inline-block;
+  }
+  .live-job {
+    width: 180px;
+    position: relative;
+    font-size: var(--body-medium-500-size);
+    line-height: 24px;
+    color: var(--gray-500);
+    display: inline-block;
+  }
+  .info {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-7xs);
+  }
+  .feature {
+    border-radius: var(--br-5xs);
+    background-color: var(--gray-white);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: var(--padding-xl);
+    gap: var(--gap-xl);
+    text-align: left;
+    font-size: var(--heading-04-size);
+    color: var(--gray-900);
+    font-family: var(--body-xl-500);
+  }
+  

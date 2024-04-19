@@ -1,0 +1,24 @@
+.briefcase-1-icon {
+    width: 40px;
+    position: relative;
+    height: 40px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .jobpilot {
+    position: relative;
+    line-height: 40px;
+    font-weight: 600;
+  }
+  .logo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-5xs);
+    text-align: left;
+    font-size: var(--heading-04-size);
+    color: var(--gray-900);
+    font-family: var(--body-xl-500);
+  }
+  

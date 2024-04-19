@@ -1,0 +1,20 @@
+.part-time {
+    position: relative;
+    line-height: 12px;
+    text-transform: uppercase;
+    font-weight: 600;
+  }
+  .property-1part {
+    border-radius: var(--br-10xs);
+    background-color: var(--success-50);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-9xs) var(--padding-5xs);
+    text-align: left;
+    font-size: var(--font-size-xs);
+    color: var(--success-500);
+    font-family: var(--body-xl-500);
+  }
+  

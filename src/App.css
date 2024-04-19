@@ -1,38 +1,88 @@
-.App {
-  text-align: center;
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
 }
+:root {
+  /* fonts */
+  --body-xl-500: Inter;
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
+  /* font sizes */
+  --body-small-400-size: 14px;
+  --body-medium-500-size: 16px;
+  --body-xl-500-size: 20px;
+  --body-large-400-size: 18px;
+  --heading-04-size: 24px;
+  --heading-03-size: 32px;
+  --heading-01-size: 40px;
+  --font-size-xs: 12px;
+  --display-01-size: 56px;
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
+  /* Colors */
+  --gray-white: #fff;
+  --gray-scale-900: #192033;
+  --gray-900: #18191c;
+  --gray-scale-500: #767e94;
+  --gray-500: #767f8c;
+  --gray-scale-600: #636a80;
+  --gray-400: #9199a3;
+  --gray-600: #5e6670;
+  --primary-500: #0a65cc;
+  --gray-50: #f1f2f4;
+  --primary-200: #99c2ff;
+  --primary-5001: #0066ff;
+  --gray-scale-700: #464d61;
+  --gray-700: #474c54;
+  --gray-100: #e4e5e8;
+  --primary-50: #e7f0fa;
+  --danger-50: #fceeee;
+  --danger-500: #e05151;
+  --color-hotpink: #ea4c89;
+  --color-ghostwhite: #edeff5;
+  --success-50: #e7f6ea;
+  --success-500: #0ba02c;
+  --primary-100: #cee0f5;
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
+  /* Gaps */
+  --gap-xl: 20px;
+  --gap-base: 16px;
+  --gap-9xs: 4px;
+  --gap-7xs: 6px;
+  --gap-5xl: 24px;
+  --gap-xs: 12px;
+  --gap-5xs: 8px;
+  --gap-7xl: 26px;
+  --gap-31xl: 50px;
+  --gap-11xs: 2px;
+  --gap-13xl: 32px;
 
-.App-link {
-  color: #61dafb;
-}
+  /* Paddings */
+  --padding-5xl: 24px;
+  --padding-281xl: 300px;
+  --padding-7xs: 6px;
+  --padding-81xl: 100px;
+  --padding-31xl: 50px;
+  --padding-xs: 12px;
+  --padding-10xs: 3px;
+  --padding-base: 16px;
+  --padding-9xs: 4px;
+  --padding-5xs: 8px;
+  --padding-lg: 18px;
+  --padding-xl: 20px;
+  --padding-sm: 14px;
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+  /* Border radiuses */
+  --br-xs: 12px;
+  --br-10xs: 3px;
+  --br-13xl: 32px;
+  --br-8xs: 5px;
+  --br-5xs: 8px;
+  --br-33xl: 52px;
+  --br-9xs: 4px;
+  --br-61xl: 80px;
+
+  /* Effects */
+  --testimonial-card: 0px 12px 80px rgba(0, 44, 109, 0.05);
+  --hover-shadow-primary: 0px 12px 48px rgba(0, 44, 109, 0.1);
+  --search-shadow: 0px 12px 40px rgba(0, 44, 109, 0.04);
 }

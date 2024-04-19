@@ -1,0 +1,17 @@
+.employers-logo-icon {
+    width: 24px;
+    position: relative;
+    height: 24px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .employersgoogle-sizemedium {
+    border-radius: var(--br-9xs);
+    background-color: var(--color-ghostwhite);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-base);
+  }
+  

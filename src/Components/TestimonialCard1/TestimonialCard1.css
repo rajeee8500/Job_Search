@@ -1,0 +1,96 @@
+.star-1-icon {
+    width: 28px;
+    position: relative;
+    height: 28px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .rating {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-11xs);
+  }
+  .mauris-eget-lorem {
+    width: 376px;
+    position: relative;
+    line-height: 24px;
+    display: inline-block;
+  }
+  .top {
+    position: absolute;
+    top: 24px;
+    left: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-base);
+  }
+  .image-icon {
+    width: 48px;
+    position: relative;
+    border-radius: 50%;
+    height: 48px;
+    object-fit: cover;
+  }
+  .john-wick {
+    position: relative;
+    line-height: 24px;
+    font-weight: 500;
+  }
+  .creative-director {
+    position: relative;
+    font-size: var(--body-small-400-size);
+    line-height: 20px;
+    color: var(--gray-scale-500);
+    text-align: left;
+  }
+  .info13 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-9xs);
+  }
+  .customer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-xs);
+  }
+  .quote-icon {
+    width: 48px;
+    position: relative;
+    height: 48px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .bottom {
+    position: absolute;
+    top: 220px;
+    left: 24px;
+    width: 376px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+    color: var(--gray-scale-900);
+  }
+  .testimonial-card {
+    width: 424px;
+    position: relative;
+    border-radius: var(--br-xs);
+    background-color: var(--gray-white);
+    box-shadow: var(--testimonial-card);
+    height: 294px;
+    text-align: left;
+    font-size: var(--body-medium-500-size);
+    color: var(--gray-scale-700);
+    font-family: var(--body-xl-500);
+  }
+
+  

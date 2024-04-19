@@ -1,0 +1,75 @@
+.most-popular-vacancies1 {
+    width: 1320px;
+    position: relative;
+    line-height: 48px;
+    font-weight: 500;
+    display: inline-block;
+  }
+  .anesthesiologists {
+    width: 312px;
+    position: relative;
+    line-height: 28px;
+    font-weight: 500;
+    display: inline-block;
+  }
+  .open-positions {
+    width: 312px;
+    position: relative;
+    font-size: var(--body-small-400-size);
+    line-height: 20px;
+    color: var(--gray-500);
+    display: inline-block;
+  }
+  .vacancies1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-5xs);
+  }
+  .row {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-5xl);
+  }
+  .data-scientist {
+    width: 312px;
+    position: relative;
+    text-decoration: underline;
+    line-height: 28px;
+    font-weight: 500;
+    display: inline-block;
+  }
+  .vacancies8 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-5xs);
+    color: var(--primary-500);
+  }
+  .vacancies {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-13xl);
+    font-size: var(--body-large-400-size);
+  }
+  .most-popular-vacancies {
+    background-color: var(--gray-white);
+    box-shadow: 0px -1px 0px #e4e5e8 inset;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-81xl) var(--padding-281xl);
+    gap: var(--gap-31xl);
+    text-align: left;
+    font-size: var(--heading-01-size);
+    color: var(--gray-900);
+    font-family: var(--body-xl-500);
+  }
+  

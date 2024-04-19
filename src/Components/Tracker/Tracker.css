@@ -1,0 +1,30 @@
+.div {
+    width: 10px;
+    position: relative;
+    border-radius: var(--br-13xl);
+    background-color: var(--primary-200);
+    height: 10px;
+  }
+  .div1 {
+    width: 10px;
+    position: relative;
+    border-radius: var(--br-13xl);
+    background-color: var(--primary-200);
+    height: 10px;
+    display: none;
+  }
+  .div3 {
+    width: 24px;
+    position: relative;
+    border-radius: var(--br-13xl);
+    background-color: var(--primary-5001);
+    height: 10px;
+  }
+  .tracker {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-5xs);
+  }
+  

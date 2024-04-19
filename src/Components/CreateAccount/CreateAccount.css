@@ -1,0 +1,55 @@
+.user-plus-duotone-1-icon {
+    width: 32px;
+    position: relative;
+    height: 32px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .icon1 {
+    border-radius: var(--br-61xl);
+    background-color: var(--gray-white);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-xl);
+  }
+  .create-account1 {
+    width: 264px;
+    position: relative;
+    line-height: 28px;
+    font-weight: 500;
+    display: inline-block;
+  }
+  .aliquam-facilisis-egestas {
+    width: 264px;
+    position: relative;
+    font-size: var(--body-small-400-size);
+    line-height: 20px;
+    color: var(--gray-500);
+    display: inline-block;
+  }
+  .info2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-xs);
+  }
+  .create-account {
+    position: absolute;
+    top: calc(50% - 112px);
+    left: calc(50% - 660px);
+    border-radius: var(--br-xs);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: var(--padding-5xl);
+    gap: var(--gap-5xl);
+    text-align: center;
+    font-size: var(--body-large-400-size);
+    color: var(--gray-900);
+    font-family: var(--body-xl-500);
+  }
+  

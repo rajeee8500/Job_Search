@@ -1,0 +1,66 @@
+.become-a-candidate {
+    width: 548px;
+    position: relative;
+    line-height: 40px;
+    font-weight: 500;
+    display: inline-block;
+  }
+  .lorem-ipsum-dolor {
+    width: 312px;
+    position: relative;
+    font-size: var(--body-small-400-size);
+    line-height: 20px;
+    color: var(--gray-scale-600);
+    display: inline-block;
+    opacity: 0.8;
+  }
+  .heading3 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-base);
+  }
+  .register-now {
+    position: relative;
+    line-height: 24px;
+    text-transform: capitalize;
+    font-weight: 600;
+  }
+  .fiarrow-right-icon4 {
+    width: 24px;
+    position: relative;
+    height: 24px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .button7 {
+    border-radius: var(--br-10xs);
+    background-color: var(--gray-white);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-xs) var(--padding-5xl);
+    gap: var(--gap-xs);
+    font-size: var(--body-medium-500-size);
+    color: var(--primary-500);
+  }
+  .candidate-employers {
+    border-radius: var(--br-xs);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-31xl);
+    gap: var(--gap-7xl);
+    /* background-image: url("/public/candidate--employers@3x.png"); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    text-align: left;
+    font-size: var(--heading-03-size);
+    color: var(--gray-scale-900);
+    font-family: var(--body-xl-500);
+  }
+  
